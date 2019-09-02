@@ -8,7 +8,46 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "badges": [
+    {
+      "id": 1,
+      "location": "Tours",
+      "fullname": "Thierry Bossé",
+      "type": "Employee",
+      "batch": "16",
+      "status": "Badge in creation"
+    },
+    {
+      "id": 2,
+      "location": "Tours",
+      "fullname": "Alexandre Ayot",
+      "type": "Employee",
+      "batch": "16",
+      "status": "Badge in creation"
+    },
+    {
+      "id": 3,
+      "location": "Tours",
+      "fullname": "Nicolas Mailloux",
+      "type": "Employee",
+      "batch": "17",
+      "status": "Request sent to factory"
+    },
+    {
+      "id": 4,
+      "location": "Tours",
+      "fullname": "Frédéric Rouze",
+      "type": "Contractor",
+      "badge": "17",
+      "status": "Badge in creation"
+    },
+    {
+      "id": 5,
+      "location": "Tours",
+      "fullname": "Avelaine Gour",
+      "type": "Trainee",
+      "badge": "17",
+      "status": "Request sent to factory"
+    }
+  ]
 }
