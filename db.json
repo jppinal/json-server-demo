@@ -38,7 +38,7 @@
       "location": "Tours",
       "fullname": "Frédéric Rouze",
       "type": "Contractor",
-      "badge": "17",
+      "batch": "17",
       "status": "Badge in creation"
     },
     {
@@ -46,7 +46,71 @@
       "location": "Tours",
       "fullname": "Avelaine Gour",
       "type": "Trainee",
-      "badge": "17",
+      "batch": "17",
+      "status": "Request sent to factory"
+    },
+    {
+      "id": 6,
+      "location": "Tours",
+      "fullname": "User test 6",
+      "type": "Trainee",
+      "batch": "18",
+      "status": "Request sent to factory"
+    },
+    {
+      "id": 7,
+      "location": "Tours",
+      "fullname": "User test 7",
+      "type": "Trainee",
+      "batch": "18",
+      "status": "Request sent to factory"
+    },
+    {
+      "id": 8,
+      "location": "Tours",
+      "fullname": "User test 8",
+      "type": "Trainee",
+      "batch": "18",
+      "status": "Request sent to factory"
+    },
+    {
+      "id": 9,
+      "location": "Tours",
+      "fullname": "User test 9",
+      "type": "Trainee",
+      "batch": "18",
+      "status": "Request sent to factory"
+    },
+    {
+      "id": 10,
+      "location": "Tours",
+      "fullname": "User test 10",
+      "type": "Trainee",
+      "batch": "18",
+      "status": "Request sent to factory"
+    },
+    {
+      "id": 11,
+      "location": "Tours",
+      "fullname": "User test 11",
+      "type": "Trainee",
+      "batch": "18",
+      "status": "Request sent to factory"
+    },
+    {
+      "id": 12,
+      "location": "Tours",
+      "fullname": "User test 12",
+      "type": "Trainee",
+      "batch": "18",
+      "status": "Request sent to factory"
+    },
+    {
+      "id": 13,
+      "location": "Tours",
+      "fullname": "User test 13",
+      "type": "Trainee",
+      "batch": "18",
       "status": "Request sent to factory"
     }
   ]
